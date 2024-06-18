@@ -1,0 +1,30 @@
+# Install Python and pip 
+sudo apt-get update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+#create a virtual environment
+python3 -m venv myenv
+#Activer l'environment virtuel 
+source myenv/bin/activate
+pip install db-dtypes
+sudo python3 get-pip.py
+
+# Install Mage
+sudo pip3 install mage-ai
+#create new project and start the tool 
+mage start uber_data
+
+# Install Pandas
+sudo pip3 install pandas
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
+
+
