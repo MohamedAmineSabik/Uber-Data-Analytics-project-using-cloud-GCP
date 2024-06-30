@@ -15,6 +15,5 @@ Alongside with this project , we will use lots of tools as follow :
 ## 4- Data Dimensional Modeling :   
 ![ETL GCP  - Page 4](data_model.jpeg) 
 ## 7- Explanatory Video  : 
-Instead of writing down the steps which will make the description too long as well as you will encounter lots of error that i tried to fix , i prepared a video to explain brively the steps 
-
-
+Instead of writing down the steps which will make the description too long as well as you will encounter lots of error that i tried to fix , i prepared a video to explain brively the steps, you can view it using this link below :  
+https://drive.google.com/file/d/1ZwtxSOLcwz4hleIC0UoNluC-0B-FHle2/view?usp=sharing
